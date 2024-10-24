@@ -1,0 +1,55 @@
+.block1 {
+    background-color: blue;
+    float: top;
+    height: 20%;
+    width: 90%;
+    margin: 20px;
+  }
+  
+  .block2 {
+    margin: 20px;
+    height: 50%;
+    width: 30%;
+    background-color: blue;
+    float: left;
+  }
+  
+  .block3 {
+    margin: 20px;
+    height: 50%;
+    width: 30%;
+    background-color: blue;
+    float: left;
+  }
+
+  .block4 {
+    margin: 20px;
+    height: 50%;
+    width: 30%;
+    background-color: blue;
+    float: left;
+  }
+  
+  .block5 {
+    margin: 20px;
+    height: 20%;
+    width: 90%;
+    background-color: blue;
+    float: bottom;
+    clear: both;
+  }
+
+a {
+    font-size: 50px;
+}
+
+.img {
+    height: 50%;
+    width: 50%;
+}
+
+.block6 {
+    border: 2px solid black;
+    border-radius: 2%;
+    margin: 20px;
+}
